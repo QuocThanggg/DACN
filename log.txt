@@ -1,0 +1,156 @@
+Array
+(
+    [e_content] => hihi
+    [e_element] => áda
+    [e_location] => sád
+    [e_host] => ád
+)
+Array
+(
+    [e_content] => Demo
+    [e_element] => Demo
+    [e_location] => Demo
+    [e_host] => Demo
+)
+Array
+(
+    [e_content] => Lễ Khai mạc “Kỳ thi sinh viên giỏi Đại học Đà Nẵng năm 2016” tại cụm thi Trường ĐHSP
+    [e_element] => - ĐHĐN: Đại diện BTC Kỳ thi cấp ĐHĐN; 
+-Trường ĐHSP: Ban Tổ chức Kỳ thi Trường ĐHSP, các cán bộ làm nhiệm vụ tại cụm thi Trường ĐHSP; 
+- Sinh viên đăng ký tham dự Kỳ thi; 
+- Các đại biểu theo giấy mời.
+    [e_location] => Tr.ĐHSP
+    [e_host] => Trưởng BTC Kỳ thi Trường ĐHSP
+)
+Array
+(
+    [e_content] => fghfh
+    [e_element] => fghfgh
+    [e_location] => fhfh
+    [e_host] => fghf
+)
+Array
+(
+    [e_content] => fghfh
+    [e_element] => fghfgh
+    [e_location] => fhfh
+    [e_host] => fghf
+)
+Array
+(
+    [e_content] => Báo cáo elearning
+    [e_element] => Báo cáo nội dung công việc đã làm được trong tuần qua
+    [e_location] => Trang web của khoa
+    [e_host] => Thắng
+)
+Array
+(
+    [e_content] => Tổ chức khen thưởng phòng ban đạt KPI
+    [e_element] => -Ban Giám Đốc
+- Phòng KT & HĐQT
+    [e_location] => Phòng Họp
+    [e_host] => Giám Đốc
+)
+Array
+(
+    [e_content] => Triển khai các dự án mới
+    [e_element] => -Ban HĐQT
+-Giám đốc
+- Trưởng Phòng
+    [e_location] => Phòng Họp
+    [e_host] => Chủ Tịch HĐQT
+)
+Array
+(
+    [e_content] => Họp sơ bộ nhân viên triển khai dự án mới
+    [e_element] => -Giám đốc
+-Phòng marketing
+    [e_location] => Phòng họp
+    [e_host] => Phòng marketing
+)
+Array
+(
+    [e_content] => Chủ tịch HĐQT, Tổng Giám đốc, Kiểm soát viên, Trưởng phòng TC-LĐTL làm việc với Đoàn kiểm tra Sở Nội vụ (Cùng dự có phòng Hành chính).
+    [e_element] => -Chủ tịch
+-Tổng Giám đốc
+    [e_location] => Hội trường
+    [e_host] => Chủ tịch HĐQT
+)
+Array
+(
+    [e_content] => Chủ tịch HĐQT, Tổng Giám đốc, Kiểm soát viên, Trưởng phòng TC-LĐTL làm việc với Đoàn kiểm tra Sở Nội vụ (Cùng dự có phòng Hành chính).
+    [e_element] => -Chủ tịch
+-Tổng Giám đốc
+    [e_location] => Hội trường
+    [e_host] => Chủ tịch HĐQT
+)
+Array
+(
+    [e_content] => Nội dung
+    [e_element] => áđấ
+    [e_location] => aâ
+    [e_host] => sdsđs
+)
+Array
+(
+    [e_content] => Báo cáo đồ án chuyên ngành
+    [e_element] => Hội Đồng khoa CNTT
+    [e_location] => Hutech campus
+    [e_host] => Hội Đồng khoa CNTT
+)
+Array
+(
+    [e_content] => Báo cáo đồ án chuyên ngành
+    [e_element] => Hội Đồng khoa CNTT
+    [e_location] => Hutech campus
+    [e_host] => Hội Đồng khoa CNTT
+)
+Array
+(
+    [e_content] => BÁO CÁO
+    [e_element] => HỘI ĐỒNG KHOA CNTT
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG KHOA CNTT
+)
+Array
+(
+    [e_content] => BÁO CÁO
+    [e_element] => HỘI ĐỒNG
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG
+)
+Array
+(
+    [e_content] => BÁO CÁO
+    [e_element] => HỘI ĐỒNG
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG
+)
+Array
+(
+    [e_content] => BÁO CÁO
+    [e_element] => HỘI ĐỒNG
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG
+)
+Array
+(
+    [e_content] => BÁO CÁO
+    [e_element] => HỘI ĐỒNG
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG
+)
+Array
+(
+    [e_content] => BÁO CÁO ĐỒ ÁN CHUYÊN NGÀNH
+    [e_element] => HỘI ĐỒNG KHOA CNTT
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG KHOA CNTT
+)
+Array
+(
+    [e_content] => BÁO CÁO ĐỒ ÁN CHUYÊN NGÀNH
+    [e_element] => HỘI ĐỒNG KHOA CNTT
+    [e_location] => HUTECH CAMPUS
+    [e_host] => HỘI ĐỒNG KHOA CNTT
+)
